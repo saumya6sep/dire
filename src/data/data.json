@@ -1,0 +1,136 @@
+{
+    "Header": {
+
+        "title": "Think safe, drive safe",
+        "paragraph": "Providing professional driving education since 2015, experience with adults and teenagers alike. At Dire Driving School we strive to provide you with an effective training programme that teaches you how to drive for life."
+
+    },
+    "About": {
+        "paragraph": "With over 10 years of dedicated service, profound experience in addressing the different driving needs of each driver in Melbourne and major nearby areas, our driving school is becoming the prominent driving lessons school serving all drivers of all ages, physical conditions and skill level. We rely on our professional certified instructors who are trained to understand the needs of every individual driver before they come up with 'tailored driving courses' that are customized to the various skills each driver has; to ensure you earn your driving license and feel confident everytime you are on road.",
+        "Why": [
+            "Over 25 years of experience",
+            "Over 5000 drivers trained",
+            "Affordable Fee",
+            "Training for teens and adults of all skill levels"
+        ],
+        "Why2": [
+            "Experienced Instructors",
+            "Best Safety Measures",
+            "Multiple programs to choose from",
+            "Tailored Courses"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Driving tests",
+            "text": "Book a test package which includes pick-up, a pre-test lesson, use of a car & drop off."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Learn in your car",
+            "text": "Use your instructors car or learn in the comfort of your own vehicle."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Refresher Driving Lessons",
+            "text": "Build up  more confidence, especially if you have not spent enough time in driving."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Learner drivers",
+            "text": "Gain experience, prepare for your driving test and complete log book hours."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "International conversions",
+            "text": "Convert your licence or simply build your confidence on Australian roads."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Lessons and test packages",
+            "text": "Choose to take lessons and after gainign confidence take the instructor along in his car to your test"
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "Carlton North, VIC 3053 ",
+        "phone": "+61 401.666.585",
+        "email": "douri99@hotmail.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Enriching communicative environment",
+            "text": "360 degree feedback system, if you don't like the instructor we are open to change."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Amazing success rate",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Experienced, accredited instructors!",
+            "text": "The lessons are conducted by patient, friendly and professional instructors with many years of experience."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Extremely high success rate",
+            "text": "Our qualified instructors will be able to tell when you should attempt the test with a view to passing it the first time."
+        }
+    ]
+}
